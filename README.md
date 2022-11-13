@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IbrahimXDE
-- 👀 I’m interested in programming in general
-- 🌱 I’m currently learning swift and Js(html and Css)
-- 💞️ I’m looking to collaborate on testing apps and learning everythingabout programming(because I am a teen)
+- 👀 I’m interested in tech and programming related kinda stuff like everything from Hardware to Software to Servers to whats going on in the tech world right now
+- 🌱 I’m currently learning python
+- 💞️ I’m looking forward to learn a lot on my journey with you 
 - 📫 How to reach me ibrahimzaoui08@gmail.com
 
 <!---
